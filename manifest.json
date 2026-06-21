@@ -1,0 +1,9 @@
+{
+  "name": "Dungeon Quest",
+  "short_name": "Dungeon Quest",
+  "start_url": ".",
+  "display": "fullscreen",
+  "background_color": "#080808",
+  "theme_color": "#080808",
+  "orientation": "portrait"
+}
